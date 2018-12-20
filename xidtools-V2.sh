@@ -48,7 +48,7 @@ echo $blue"[12] Phising Game
 echo $yellow"[😊]~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>"
 echo $red"[13] install kodork
 echo $blue"[😊]-------------------------------------------->"
-read -p"MR_XiD---> " bos;
+read -p"Root@MR_XiD-----> " bos;
 
 if [ $bos = 1 ] || [ $bos = 1 ]
 then
